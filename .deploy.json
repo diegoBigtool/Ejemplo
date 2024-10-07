@@ -1,6 +1,6 @@
 {
-	  "DEPLOYPATH" : "/home/invitia/public_html/ejemplo",
-	  "task" :  [
-  		"index.html",
-	  ]
+  "DEPLOYPATH" : "/home/invitia/public_html/ejemplo",
+  "task" :  [
+    "index.html",
+  ]
 }
